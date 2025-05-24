@@ -20,7 +20,7 @@ Aplicação web para gerenciamento de receitas e despesas, desenvolvida com **Sp
 - Spring Boot
 - Spring Web
 - Spring Data JPA
-- PostgreSQL (ou H2 em memória para testes)
+- PostgreSQL 
 - Maven
 
 ### Frontend
